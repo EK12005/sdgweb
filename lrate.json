@@ -1,0 +1,1730 @@
+data = [
+  {
+    "Entity": "Afghanistan",
+    "Code": "AFG",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 38.168041
+  },
+  {
+    "Entity": "Albania",
+    "Code": "ALB",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 97.553902
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 79.608398
+  },
+  {
+    "Entity": "American Samoa",
+    "Code": "ASM",
+    "Year": 1980,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 97.344162
+  },
+  {
+    "Entity": "Andorra",
+    "Code": "AND",
+    "Year": 2011,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 100
+  },
+  {
+    "Entity": "Angola",
+    "Code": "AGO",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 71.164162
+  },
+  {
+    "Entity": "Anguilla",
+    "Code": "AIA",
+    "Year": 1984,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95
+  },
+  {
+    "Entity": "Antigua and Barbuda",
+    "Code": "ATG",
+    "Year": 2014,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.949997
+  },
+  {
+    "Entity": "Arab World",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 77.364586
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.089973
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.768417
+  },
+  {
+    "Entity": "Aruba",
+    "Code": "ABW",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 97.5242
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2011,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98
+  },
+  {
+    "Entity": "Azerbaijan",
+    "Code": "AZE",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.80526
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.599998
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.717262
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 61.493832
+  },
+  {
+    "Entity": "Barbados",
+    "Code": "BRB",
+    "Year": 2002,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.699997
+  },
+  {
+    "Entity": "Belarus",
+    "Code": "BLR",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.722038
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 82.776817
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 38.44714
+  },
+  {
+    "Entity": "Bermuda",
+    "Code": "BMU",
+    "Year": 2005,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98
+  },
+  {
+    "Entity": "Bhutan",
+    "Code": "BTN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 63.906818
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.141922
+  },
+  {
+    "Entity": "Bosnia and Herzegovina",
+    "Code": "BIH",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.485764
+  },
+  {
+    "Entity": "Botswana",
+    "Code": "BWA",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 88.224411
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 92.586807
+  },
+  {
+    "Entity": "British Virgin Islands",
+    "Code": "VGB",
+    "Year": 1991,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 97.800003
+  },
+  {
+    "Entity": "Brunei",
+    "Code": "BRN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 96.656532
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.38858
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 37.7467
+  },
+  {
+    "Entity": "Burundi",
+    "Code": "BDI",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 85.496094
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 78.34594
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 74.98558
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "Cape Verde",
+    "Code": "CPV",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 88.465424
+  },
+  {
+    "Entity": "Caribbean small states",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 91.760712
+  },
+  {
+    "Entity": "Cayman Islands",
+    "Code": "CYM",
+    "Year": 2007,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.867821
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 36.752609
+  },
+  {
+    "Entity": "Central Europe and the Baltics",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.360962
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 40.018242
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 96.627548
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 96.357452
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 94.577057
+  },
+  {
+    "Entity": "Comoros",
+    "Code": "COM",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 78.13739
+  },
+  {
+    "Entity": "Congo",
+    "Code": "COG",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 79.311172
+  },
+  {
+    "Entity": "Cook Islands",
+    "Code": "COK",
+    "Year": 2011,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 97.647247
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 43.26532
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.272591
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.710716
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.059776
+  },
+  {
+    "Entity": "Czech Republic",
+    "Code": "CZE",
+    "Year": 2011,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "Democratic Republic of Congo",
+    "Code": "COD",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 77.221672
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "Djibouti",
+    "Code": "DJI",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 67.900002
+  },
+  {
+    "Entity": "Dominica",
+    "Code": "DMA",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 94
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 92.465424
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 94.515472
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 75.842621
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 87.648216
+  },
+  {
+    "Entity": "Equatorial Guinea",
+    "Code": "GNQ",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.195663
+  },
+  {
+    "Entity": "Eritrea",
+    "Code": "ERI",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 73.845253
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.823509
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 49.031521
+  },
+  {
+    "Entity": "Europe & Central Asia",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.997589
+  },
+  {
+    "Entity": "Europe & Central Asia (IDA & IBRD)",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.9422
+  },
+  {
+    "Entity": "Europe & Central Asia (IDA & IBRD)",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 97.452644
+  },
+  {
+    "Entity": "Europe & Central Asia (IDA & IBRD)",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.890953
+  },
+  {
+    "Entity": "Europe & Central Asia (excluding high income)",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.567757
+  },
+  {
+    "Entity": "Europe & Central Asia (excluding high income)",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 97.218407
+  },
+  {
+    "Entity": "Europe & Central Asia (excluding high income)",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.799637
+  },
+  {
+    "Entity": "Fiji",
+    "Code": "FJI",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 93.699997
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 100
+  },
+  {
+    "Entity": "Fragile and conflict affected situations",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 63.947193
+  },
+  {
+    "Entity": "Fragile and conflict affected situations",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 68.33667
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "French Polynesia",
+    "Code": "PYF",
+    "Year": 1977,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 83.237877
+  },
+  {
+    "Entity": "Gambia",
+    "Code": "GMB",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 55.572762
+  },
+  {
+    "Entity": "Georgia",
+    "Code": "GEO",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.759621
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 76.575897
+  },
+  {
+    "Entity": "Gibraltar",
+    "Code": "GIB",
+    "Year": 2011,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 80
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.29287
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Year": 2001,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 100
+  },
+  {
+    "Entity": "Grenada",
+    "Code": "GRD",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 96
+  },
+  {
+    "Entity": "Guam",
+    "Code": "GUM",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.78904
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 79.074211
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 30.47279
+  },
+  {
+    "Entity": "Guinea-Bissau",
+    "Code": "GNB",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 59.77285
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 87.535316
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 60.68935
+  },
+  {
+    "Entity": "Heavily indebted poor countries (HIPC)",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 45.420242
+  },
+  {
+    "Entity": "Heavily indebted poor countries (HIPC)",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 52.221073
+  },
+  {
+    "Entity": "Heavily indebted poor countries (HIPC)",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 57.837166
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 88.424583
+  },
+  {
+    "Entity": "Hong Kong",
+    "Code": "HKG",
+    "Year": 2002,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 93.5
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.380882
+  },
+  {
+    "Entity": "IBRD only",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 73.642052
+  },
+  {
+    "Entity": "IBRD only",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 82.563576
+  },
+  {
+    "Entity": "IBRD only",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 87.329063
+  },
+  {
+    "Entity": "IDA & IBRD total",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 69.861198
+  },
+  {
+    "Entity": "IDA & IBRD total",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 77.905838
+  },
+  {
+    "Entity": "IDA & IBRD total",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 82.390694
+  },
+  {
+    "Entity": "IDA blend",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 63.288082
+  },
+  {
+    "Entity": "IDA blend",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 69.031975
+  },
+  {
+    "Entity": "IDA only",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 48.29747
+  },
+  {
+    "Entity": "IDA only",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 55.4478
+  },
+  {
+    "Entity": "IDA only",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 61.650894
+  },
+  {
+    "Entity": "IDA total",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 54.144699
+  },
+  {
+    "Entity": "IDA total",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 59.467594
+  },
+  {
+    "Entity": "IDA total",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 64.433121
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 72.225304
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.437683
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 87.172531
+  },
+  {
+    "Entity": "Iraq",
+    "Code": "IRQ",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 79.721764
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2004,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 97.099998
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.015793
+  },
+  {
+    "Entity": "Jamaica",
+    "Code": "JAM",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 88.499901
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2002,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.014351
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.787849
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 78.023399
+  },
+  {
+    "Entity": "Kosovo",
+    "Code": "OWID_KOS",
+    "Year": 2007,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 91.900002
+  },
+  {
+    "Entity": "Kuwait",
+    "Code": "KWT",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 96.117706
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.50132
+  },
+  {
+    "Entity": "Laos",
+    "Code": "LAO",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 79.867462
+  },
+  {
+    "Entity": "Late-demographic dividend",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 82.479462
+  },
+  {
+    "Entity": "Late-demographic dividend",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 91.466995
+  },
+  {
+    "Entity": "Late-demographic dividend",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 94.784943
+  },
+  {
+    "Entity": "Latin America & Caribbean",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 92.624313
+  },
+  {
+    "Entity": "Latin America & Caribbean (IDA & IBRD)",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 92.4664
+  },
+  {
+    "Entity": "Latin America & Caribbean (excluding high income)",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 92.44799
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.892693
+  },
+  {
+    "Entity": "Least developed countries: UN classification",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 45.830433
+  },
+  {
+    "Entity": "Least developed countries: UN classification",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 53.413399
+  },
+  {
+    "Entity": "Least developed countries: UN classification",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 60.568233
+  },
+  {
+    "Entity": "Lebanon",
+    "Code": "LBN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 94.051102
+  },
+  {
+    "Entity": "Lesotho",
+    "Code": "LSO",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 79.360931
+  },
+  {
+    "Entity": "Liberia",
+    "Code": "LBR",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 47.60014
+  },
+  {
+    "Entity": "Libya",
+    "Code": "LBY",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 91.38887
+  },
+  {
+    "Entity": "Liechtenstein",
+    "Code": "LIE",
+    "Year": 2011,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 100
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.82328
+  },
+  {
+    "Entity": "Low income",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 46.024578
+  },
+  {
+    "Entity": "Low income",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 52.694969
+  },
+  {
+    "Entity": "Low income",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 56.574059
+  },
+  {
+    "Entity": "Lower middle income",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 58.596119
+  },
+  {
+    "Entity": "Lower middle income",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 67.331596
+  },
+  {
+    "Entity": "Lower middle income",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 73.91008
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 100
+  },
+  {
+    "Entity": "Macao",
+    "Code": "MAC",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 96.2276
+  },
+  {
+    "Entity": "Macedonia",
+    "Code": "MKD",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 97.843758
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 64.656303
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 65.963829
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 94.636993
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.321022
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 33.068871
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 94.066612
+  },
+  {
+    "Entity": "Marshall Islands",
+    "Code": "MHL",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.265083
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 52.123562
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 90.616043
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 94.545593
+  },
+  {
+    "Entity": "Micronesia",
+    "Code": "",
+    "Year": 1980,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 89
+  },
+  {
+    "Entity": "Middle East & North Africa",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 80.750015
+  },
+  {
+    "Entity": "Middle East & North Africa (IDA & IBRD)",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 78.232857
+  },
+  {
+    "Entity": "Middle East & North Africa (excluding high income)",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 78.438812
+  },
+  {
+    "Entity": "Middle income",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 71.371117
+  },
+  {
+    "Entity": "Middle income",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 79.700737
+  },
+  {
+    "Entity": "Middle income",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 84.38868
+  },
+  {
+    "Entity": "Moldova",
+    "Code": "MDA",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.244392
+  },
+  {
+    "Entity": "Monaco",
+    "Code": "MCO",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "Mongolia",
+    "Code": "MNG",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.367638
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.719948
+  },
+  {
+    "Entity": "Montserrat",
+    "Code": "MSR",
+    "Year": 1970,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 97
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 71.710548
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 58.836552
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 93.09005
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 90.820503
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 64.663643
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "New Caledonia",
+    "Code": "NCL",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 96.93782
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 82.471848
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 19.1026
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 59.568081
+  },
+  {
+    "Entity": "Niue",
+    "Code": "NIU",
+    "Year": 2011,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95
+  },
+  {
+    "Entity": "North Korea",
+    "Code": "PRK",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.999237
+  },
+  {
+    "Entity": "Northern Mariana Islands",
+    "Code": "MNP",
+    "Year": 1980,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 97
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 2011,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 100
+  },
+  {
+    "Entity": "Oman",
+    "Code": "OMN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 93.971649
+  },
+  {
+    "Entity": "Other small states",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 73.338379
+  },
+  {
+    "Entity": "Other small states",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 78.839775
+  },
+  {
+    "Entity": "Other small states",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 83.649963
+  },
+  {
+    "Entity": "Pacific island small states",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 86.692055
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 56.440311
+  },
+  {
+    "Entity": "Palau",
+    "Code": "PLW",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.523972
+  },
+  {
+    "Entity": "Palestine",
+    "Code": "PSE",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 96.668037
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.038231
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 63.433491
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.53611
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 94.374352
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.787422
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.428108
+  },
+  {
+    "Entity": "Pre-demographic dividend",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 51.186974
+  },
+  {
+    "Entity": "Pre-demographic dividend",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 55.785202
+  },
+  {
+    "Entity": "Pre-demographic dividend",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 58.624794
+  },
+  {
+    "Entity": "Puerto Rico",
+    "Code": "PRI",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 93.329422
+  },
+  {
+    "Entity": "Qatar",
+    "Code": "QAT",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 97.757088
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.757027
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.719566
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 71.2435
+  },
+  {
+    "Entity": "Saint Helena",
+    "Code": "SHN",
+    "Year": 1987,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 97
+  },
+  {
+    "Entity": "Saint Kitts and Nevis",
+    "Code": "KNA",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 97.800003
+  },
+  {
+    "Entity": "Saint Lucia",
+    "Code": "LCA",
+    "Year": 2001,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 90.099998
+  },
+  {
+    "Entity": "Saint Pierre and Miquelon",
+    "Code": "SPM",
+    "Year": 1982,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "Saint Vincent and the Grenadines",
+    "Code": "VCT",
+    "Year": 1970,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.632156
+  },
+  {
+    "Entity": "Samoa",
+    "Code": "WSM",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.015007
+  },
+  {
+    "Entity": "San Marino",
+    "Code": "SMR",
+    "Year": 2011,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 96
+  },
+  {
+    "Entity": "Sao Tome and Principe",
+    "Code": "STP",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 91.747108
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 94.842369
+  },
+  {
+    "Entity": "Senegal",
+    "Code": "SEN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 55.624851
+  },
+  {
+    "Entity": "Serbia",
+    "Code": "SRB",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.002892
+  },
+  {
+    "Entity": "Seychelles",
+    "Code": "SYC",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.321083
+  },
+  {
+    "Entity": "Sierra Leone",
+    "Code": "SLE",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 48.4319
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 96.774628
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2004,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.599998
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.71476
+  },
+  {
+    "Entity": "Small states",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 77.28492
+  },
+  {
+    "Entity": "Small states",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 81.477959
+  },
+  {
+    "Entity": "Small states",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 85.654785
+  },
+  {
+    "Entity": "Solomon Islands",
+    "Code": "SLB",
+    "Year": 2011,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 84.099998
+  },
+  {
+    "Entity": "Somalia",
+    "Code": "SOM",
+    "Year": 2001,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 37.799999
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 94.597939
+  },
+  {
+    "Entity": "South Asia",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 66.691177
+  },
+  {
+    "Entity": "South Asia (IDA & IBRD)",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 66.691177
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2008,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 97.965942
+  },
+  {
+    "Entity": "South Sudan",
+    "Code": "SSD",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 31.97625
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.11451
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 92.614166
+  },
+  {
+    "Entity": "Sub-Saharan Africa",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 60.880547
+  },
+  {
+    "Entity": "Sub-Saharan Africa (IDA & IBRD)",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 52.531582
+  },
+  {
+    "Entity": "Sub-Saharan Africa (IDA & IBRD)",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 56.981934
+  },
+  {
+    "Entity": "Sub-Saharan Africa (IDA & IBRD)",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 60.880547
+  },
+  {
+    "Entity": "Sub-Saharan Africa (excluding high income)",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 56.976406
+  },
+  {
+    "Entity": "Sub-Saharan Africa (excluding high income)",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 60.875755
+  },
+  {
+    "Entity": "Sudan",
+    "Code": "SDN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 58.601318
+  },
+  {
+    "Entity": "Suriname",
+    "Code": "SUR",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.538986
+  },
+  {
+    "Entity": "Swaziland",
+    "Code": "SWZ",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 87.470192
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "Syria",
+    "Code": "SYR",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 86.303932
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 96.099998
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.781052
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 80.359497
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 93.983017
+  },
+  {
+    "Entity": "Timor",
+    "Code": "TLS",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 64.066139
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 66.53759
+  },
+  {
+    "Entity": "Tonga",
+    "Code": "TON",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.397858
+  },
+  {
+    "Entity": "Trinidad and Tobago",
+    "Code": "TTO",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.969582
+  },
+  {
+    "Entity": "Tunisia",
+    "Code": "TUN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 81.054192
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.688103
+  },
+  {
+    "Entity": "Turkmenistan",
+    "Code": "TKM",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.692932
+  },
+  {
+    "Entity": "Turks and Caicos Islands",
+    "Code": "TCA",
+    "Year": 1970,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 73.809837
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.764107
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 92.986366
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2003,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99
+  },
+  {
+    "Entity": "Upper middle income",
+    "Code": "",
+    "Year": 1990,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 81.918854
+  },
+  {
+    "Entity": "Upper middle income",
+    "Code": "",
+    "Year": 2000,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 90.65731
+  },
+  {
+    "Entity": "Upper middle income",
+    "Code": "",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 94.26899
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 98.442101
+  },
+  {
+    "Entity": "Uzbekistan",
+    "Code": "UZB",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 99.995193
+  },
+  {
+    "Entity": "Vanuatu",
+    "Code": "VUT",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 85.058678
+  },
+  {
+    "Entity": "Vatican",
+    "Code": "VAT",
+    "Year": 2011,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 100
+  },
+  {
+    "Entity": "Venezuela",
+    "Code": "VEN",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 95.399246
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 94.514267
+  },
+  {
+    "Entity": "Virgin Islands",
+    "Code": "",
+    "Year": 2005,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 90
+  },
+  {
+    "Entity": "Wallis and Futuna",
+    "Code": "WLF",
+    "Year": 1969,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 50
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2010,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 85.315758
+  },
+  {
+    "Entity": "Yemen",
+    "Code": "YEM",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 69.961952
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 85.117264
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "Year": 2015,
+    "Literacy rates (World Bank, CIA World Factbook, and other sources) (%)": 86.873482
+  }
+]

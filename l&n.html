@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="litstyles.css">
+</head>
+
+<body>
+ 
+<div id="topnav">
+  <a href="file:///Users/edwin.kim/Desktop/Design/U2CD/EdwinCD/index.html">Home</a>
+  <a class="active" href="#literacyandnumeracy">Literacy and Numeracy</a>
+  <a href="file:///Users/edwin.kim/Desktop/Design/U2CD/EdwinCD/wcyd.html">What Can You Do?</a>
+</div>
+
+<center>
+    <h3>Placeholder Text</h3>
+    
+    <h1>Why is Literacy and Numeracy Important?</h1>
+    
+    <a href="file:///Users/edwin.kim/Desktop/Design/U2CD/EdwinCD/l&nfr.html" class="button">Translate Page to French</a>
+    
+    <div class="left"> 
+    
+        <h2>Literacy Benefits</h2>
+        
+        <img src="https://specials-images.forbesimg.com/imageserve/1009498682/960x0.jpg?fit=scale" length="400" width="300" class="shadowimage">
+        
+    </div>
+    
+    <div class="leftmore1">  
+    
+        <p>Having a solid foundation<br> in the ability to read, write, speak, and<br> listen can lead to </p>
+    
+        <p>- improved communication among peers,<br> especially with the rise of digital messaging</p>
+    
+        <p>- utilise tools like the internet<br> or books to their full potential</p>
+    
+        <p>- career advancement and success</p>
+    
+        <p>- a better chance in going<Br> into higher education</p>
+    
+        <p>- an overall rise in cognitive<br> and technical skills</p>
+        
+        <h1>________________________________________________________________________________</h1>
+   
+    </div>
+    
+    <div class="right1">
+    
+        <h2>Numeracy Benefits</h2>
+        
+        <img src="https://www.dictionary.com/e/wp-content/uploads/2019/10/slideshow-Large-numbers_1_1000x700.jpg" width="300" length="100" class="shadowimage">
+        
+    </div>
+    
+    <div class="rightmore">
+        
+        <br>
+    
+        <p>Having a solid foundation<br> in the ability to interpret and operate <br>with numbers can lead to</p>
+    
+        <p>- more informed decisions financially</p>
+    
+        <p>- career advancement and success</p>
+    
+        <p>- a better chance in going<br> into higher education</p>
+    
+        <p>- the development of logical thinking<br> and reasoning strategies</p>
+    
+        <p>- the ability to perform everyday<br> tasks more effectively</p>
+    
+    </div>
+    
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    
+    <h1>Statistics</h1>
+    
+    <div class="middleleft">
+    
+        <h3>World Literacy Rate Over the Years</h3>
+    
+        <canvas id="myCanvas" width="400" height="450" style="border:1px solid #d3d3d3;"></canvas>
+    
+        <p>This graph shows the rise of the world's literacy rate throughout the years,<br> indicating a bigger need to aquire such skills to adapt to<br> a modern world that is constantly evolving.</p>
+        
+    </div>
+    
+    <div class="middleright">
+    
+        <h3>Comparing the 10 Poorest Countries to Their Literacy Rates</h3>
+        
+        <br><br>
+    
+        <canvas id="myCanvas2" width="400" height="345" style="border:1px solid #d3d3d3;"></canvas>
+        
+        <br><br><br>
+    
+        <p>This graph shows the top ten poorest countries in the world<br> and their literacy rates, going from the 10th poorest (Mozambique) to the poorest (Niger).<br> This graph shows a direct correalation between <b>poverty and a lack of literate people</b>.<br> All countries listed except for two have literacy rates <b>below 50%</b>.<br> Furthermore, Niger is both <b>the poorest and least literate</b> country out of all of them. </p>
+        
+    </div>
+    
+</center>
+    
+<script>
+    
+    var c = document.getElementById("myCanvas");
+    var ctx = c.getContext("2d"); 
+    
+    ctx.fillStyle = "red";
+    ctx.fillRect(0,0,19*2,30);
+    ctx.fillRect(0,35,20*2,30);
+    ctx.fillRect(0,70,21*2,30);
+    ctx.fillRect(0,105,21*2,30);
+    ctx.fillRect(0,140,26*2,30);
+    ctx.fillRect(0,175,32*2,30);
+    ctx.fillRect(0,210,33*2,30);
+    ctx.fillRect(0,245,42*2,30);
+    ctx.fillRect(0,280,36*2,30);
+    ctx.fillRect(0,315,42*2,30);
+    ctx.fillStyle = "green";
+    ctx.fillRect(0,350,75.901077*2,30);
+    ctx.fillRect(0,385,81.315758*2,30);
+    ctx.fillRect(0,420,85.315758*2,30);
+    
+    ctx.font = "15px Arial";
+    ctx.fillStyle = "red";
+    ctx.fillText("19% (1870)",41,20)
+    ctx.fillText("20% (1880)",43,55)
+    ctx.fillText("21% (1890)",45,90)
+    ctx.fillText("21% (1900)",45,125)
+    ctx.fillText("26% (1910)",55,160)
+    ctx.fillText("32% (1920)",67,195)
+    ctx.fillText("33% (1930)",69,230)
+    ctx.fillText("42% (1940)",87,265)
+    ctx.fillText("36% (1950)",75,300)
+    ctx.fillText("42% (1960)",87,335)
+    ctx.fillStyle = "green";
+    ctx.fillText("76% (1990)",155,370)
+    ctx.fillText("81% (2000)",165,405)
+    ctx.fillText("85% (2010)",173,440)
+    
+    var c = document.getElementById("myCanvas2");
+    var ctx = c.getContext("2d"); 
+    
+    ctx.fillStyle = "red";
+    ctx.fillRect(0,0,58.836552*2,30);
+    ctx.fillRect(0,35,47.60014*2,30);
+    ctx.fillRect(0,70,33.068871*2,30);
+    ctx.fillRect(0,105,37.7467*2,30);
+    ctx.fillRect(0,140,48.4319*2,30); 
+    ctx.fillStyle = "green";
+    ctx.fillRect(0,175,85.496094*2,30);
+    ctx.fillStyle = "red";
+    ctx.fillRect(0,210,40.018242*2,30);
+    ctx.fillRect(0,245,31.97625*2,30);
+    ctx.fillRect(0,280,36.752609*2,30);
+    ctx.fillRect(0,315,19.1026*2,30);
+    
+    ctx.fillStyle = "red";
+    ctx.font = "15px Arial";
+    ctx.fillText("10. Mozambique: 59% (2015)",121,20)
+    ctx.fillText("9. Liberia: 48% (2015)",99,55)
+    ctx.fillText("8. Mali: 33% (2015)",69,90)
+    ctx.fillText("7. Burkina Faso: 38% (2015)",79,125)
+    ctx.fillText("6. Sierra Leon: 48% (2015)",99,160)
+    ctx.fillStyle = "green";
+    ctx.fillText("5. Burundi: 85% (2015)",173,195)
+    ctx.fillStyle = "red";
+    ctx.fillText("4. Chad: 40% (2015)",83,230)
+    ctx.fillText("3. South Sudan: 32% (2015)",67,265)
+    ctx.fillText("2. Central African Republic: 37% (2015)",77,300)
+    ctx.fillText("1. Niger: 19% (2015)",41,335)
+    
+</script>
+
+</body>
+</html>

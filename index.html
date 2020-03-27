@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="lrate.json"></script>
+    <link rel="stylesheet" href="litstyles.css">
+ </head>
+
+<body>
+
+    <div id="topnav">
+        <a class="active" href="#home">Home</a>
+        <a href="file:///Users/edwin.kim/Desktop/Design/U2CD/EdwinCD/L&N.html">Literacy and Numeracy</a>
+        <a href="file:///Users/edwin.kim/Desktop/Design/U2CD/EdwinCD/wcyd.html">What Can You Do?</a>
+    </div>
+
+    <center>
+
+        <h3>Sustainable Development Goal 4: Quality Education</h3>
+
+    <div class="right">
+        
+        <h1>SDG 4.6</h1>
+        
+        <img src="https://storage.needpix.com/rsynced_images/reading-99244_1280.png" width="300" height="300">
+        
+    </div>
+
+    <div class="rightmore">
+        
+        <br><br><br><br><br><br>
+        
+        <p>Goal 4.6 is: "By 2030, ensure<br> that all youth and a substantial <br>proportion of adults, both <br>men and women, achieve literacy <br>and numeracy. This page will inform <br>you of the problems Niger is <br>facing, why such skills are <br>important for your child, <br>and what you can do to <br>help them reach primary,<br> secondary, and post-secondary<br> education. </p>
+        
+        <br><br><br><br><br><br><br><br><br>
+        
+        <img src="https://www.concernusa.org/wp-content/uploads/2019/09/concern-niger-education-bachara-banner-460x460.jpg" width="300" height="300" class="shadowimage">
+        
+        <br><br>
+        
+        <p> Niger currently has the worst literacy rate of any nation in the world, sitting at around 19% (2015, Our World in Data). This is largely due to lack of teachers, poor conditions of schools, and equity and financial issues with impoverished children. In comparison, the average literacy rate in the world in 2010 was 85.3%.<br><br> The graph to the left of the page can graph out the literacy rates for each country (latest year of data). Use it to compare Niger to the rest of the world!<br><br>Note: please use capital letters and proper spelling when typing out a country's name. </p>
+        
+        <br>
+        
+        <a href="file:///Users/edwin.kim/Desktop/Design/U2CD/EdwinCD/indexfr.html" class="button">Translate Page to French</a>
+
+    </div>
+
+    <div class="left">
+        
+        <h1>About</h1>
+            
+        <img src="https://i1.wp.com/www.un.org/sustainabledevelopment/wp-content/uploads/2018/05/E_SDG-goals_icons-individual-rgb-04.png?w=1200&ssl=1" width="300" height="300" class="shadowimage">
+            
+    </div>
+        
+    <div class="leftmore">
+        
+        <br><br><br><br><br><br><br><br>
+        
+        <p> Sustainable development goal 4 is a <br> UN goal in which their mission statement <br> is to "ensure inclusive and equitable quality <br>education and promote lifelong learning<br> opportunities for all."<br> There are a number of targets<br> for SDG 4, one of which is goal 4.6.</p>
+        
+        <br><br><br><br><br><br>
+        
+        <h1>________________________________________________________________________________</h1>
+        
+        <h1>Niger's Literacy Problem</h1>
+        
+        <canvas id="myCanvas" width="600" height="550" style="border:1px solid #d3d3d3;"></canvas>
+        
+        <div id="mydata"></div>
+        
+        Country: <input type="text" id="ebox" placeholder="Country name..">
+        
+        <button onclick="searchIt()" class="button">Submit</button>
+        
+        <button onclick="resetIt()" class="button">Reset Graph</button>
+
+    </div>
+        
+        <script>
+            var c = document.getElementById("myCanvas");
+            var ctx = c.getContext("2d"); 
+            var timesdraw = 0;
+            var y = 10;
+            var r = 5;
+            var t = 25;
+            
+            function searchIt() {
+                var eboxtext = document.getElementById("ebox").value;
+                for (i = 0; i<data.length; i++) {
+                    if (eboxtext === data[i]['Entity']) {
+                            if  (timesdraw != 0) { y = y + 30 } {
+                                ctx.fillStyle = "red";
+                                ctx.fillRect(0,y,data[i]['Literacy rates (World Bank, CIA World Factbook, and other sources) (%)']*3.5,20);
+                                ctx.font = "15px Arial";
+                                ctx.fillText(data[i]['Entity']+": "+data[i]['Literacy rates (World Bank, CIA World Factbook, and other sources) (%)']+"%"+" "+"("+data[i]['Year']+")",data[i]['Literacy rates (World Bank, CIA World Factbook, and other sources) (%)']*3.5+r,t)
+                                timesdraw = timesdraw + 1
+                                t = t + 30
+                            }
+                    }
+                }
+                if (y > 520) {
+                    alert("Cannot add anymore data; you have reached the bottom of the canvas. We recommend resetting the graph.");
+                }
+            }
+            
+            function resetIt() {
+                timesdraw = 0;
+                y = 10;
+                r = 5;
+                t = 25;
+                const context = c.getContext('2d');
+                context.clearRect(0, 0, c.width, c.height);
+                context.canvas.width = context.canvas.width;
+            }
+            
+                
+        </script>
+
+</body>
+
+</html>

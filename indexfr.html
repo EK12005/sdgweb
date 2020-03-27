@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="lrate.json"></script>
+    <link rel="stylesheet" href="litstyles.css">
+ </head>
+
+<body>
+
+    <div id="topnav">
+        <a class="active" href="#home">Accueil</a>
+        <a href="file:///Users/edwin.kim/Desktop/Design/U2CD/EdwinCD/l&nfr.html">Alphabétisation et Numératie</a>
+        <a href="file:///Users/edwin.kim/Desktop/Design/U2CD/EdwinCD/wcydfr.html">Que Pouvez-vous Faire?</a>
+    </div>
+
+    <center>
+
+        <h3>Objectif de Développement Durable 4: Une Éducation de Qualité</h3>
+
+    <div class="right">
+        
+        <h1>SDG 4.6</h1>
+        
+        <img src="https://storage.needpix.com/rsynced_images/reading-99244_1280.png" width="300" height="300">
+        
+    </div>
+
+    <div class="rightmore">
+        
+        <br><br><br><br><br><br>
+        
+        <p>L'objectif 4.6 est: "D'ici 2030, faire en <br> sorte que tous les jeunes et une<br> proportion substantielle d'adultes, <br>hommes et femmes,<br> parviennent à lire et<br> à écrire. Cette page vous <br>informera de les<br> problèmes auxquels le Niger est <br>confronté, pourquoi de telles<br> compétence sont importantes<br> pour votre enfant <br> et ce que vous pouvez faire <br>pour les aider à atteindre les <br>niveaux primaire, secondaire<br> et postsecondaire <br> éducation.</p>
+        
+        <br><br><br><br>
+        
+        <img src="https://www.concernusa.org/wp-content/uploads/2019/09/concern-niger-education-bachara-banner-460x460.jpg" width="300" height="300" class="shadowimage">
+        
+        <br><br>
+        
+        <p> Le Niger a actuellement le pire taux d'alphabétisation de tous les pays du monde, se situant à environ 19% (2015, Our World in Data). Cela est dû en grande partie au manque d'enseignants, aux mauvaises conditions scolaires et aux problèmes d'équité et de financement avec les enfants pauvres. En comparaison, le taux d'alphabétisation moyen dans le monde en 2010 était de 85.3%. <br> <br> Le graphique à gauche de la page peut représenter graphiquement les taux d'alphabétisation pour chaque pays (dernière année de données). Utilisez-le pour comparer le Niger au reste du monde! <br> <br> Remarque: veuillez utiliser les majuscules et l'orthographe appropriée lorsque vous tapez le nom d'un pays. </p>
+        
+        <a href="file:///Users/edwin.kim/Desktop/Design/U2CD/EdwinCD/index.html" class="button">Traduire La Page en Anglais</a>
+
+    </div>
+
+    <div class="left">
+        
+        <h1>Sur</h1>
+            
+        <img src="https://i1.wp.com/www.un.org/sustainabledevelopment/wp-content/uploads/2018/05/E_SDG-goals_icons-individual-rgb-04.png?w=1200&ssl=1" width="300" height="300" class="shadowimage">
+            
+    </div>
+        
+    <div class="leftmore">
+        
+        <br><br><br><br><br><br><br><br>
+        
+        <p> L'objectif de développement durable 4 est <br>un objectif de l'ONU dans lequel leur<br> énoncé de mission est de "garantir une<br> éducation inclusive et équitable de qualité <br> et de promouvoir l'apprentissage,<br> tout au long de la vie pour tous." <br> Il existe un certain nombre de d'objectifs <br> pour l'ODD 4, dont l'un est l'objectif 4.6.</p>
+        
+        <br><br><br><br><br><br>
+        
+        <h1>________________________________________________________________________________</h1>
+        
+        <h1>Le Problème D'Alphabétisation au Niger</h1>
+        
+        <canvas id="myCanvas" width="600" height="550" style="border:1px solid #d3d3d3;"></canvas>
+        
+        <div id="mydata"></div>
+        
+        Pays: <input type="text" id="ebox" placeholder="Nom du pays...">
+        
+        <button onclick="searchIt()" class="button">Soumettre</button>
+        
+        <button onclick="resetIt()" class="button">Réinitialiser le Graphique
+</button>
+
+    </div>
+        
+        <script>
+            var c = document.getElementById("myCanvas");
+            var ctx = c.getContext("2d"); 
+            var timesdraw = 0;
+            var y = 10;
+            var r = 5;
+            var t = 25;
+            
+            function searchIt() {
+                var eboxtext = document.getElementById("ebox").value;
+                for (i = 0; i<data.length; i++) {
+                    if (eboxtext == data[i]['Entity']) {
+                            if  (timesdraw != 0) { y = y + 30 } {
+                                ctx.fillStyle = "red";
+                                ctx.fillRect(0,y,data[i]['Literacy rates (World Bank, CIA World Factbook, and other sources) (%)']*3.5,20);
+                                ctx.font = "15px Arial";
+                                ctx.fillText(data[i]['Entity']+": "+data[i]['Literacy rates (World Bank, CIA World Factbook, and other sources) (%)']+"%"+" "+"("+data[i]['Year']+")",data[i]['Literacy rates (World Bank, CIA World Factbook, and other sources) (%)']*3.5+r,t)
+                                timesdraw = timesdraw + 1
+                                t = t + 30
+                            }
+                    }   
+                }
+                if (y > 520) {
+                    alert("Impossible d'ajouter plus de données; vous avez atteint le bas de la toile. Nous vous recommandons de réinitialiser le graphique.");
+                }
+            }
+            
+            function resetIt() {
+                timesdraw = 0;
+                y = 10;
+                r = 5;
+                t = 25;
+                const context = c.getContext('2d');
+                context.clearRect(0, 0, c.width, c.height);
+                context.canvas.width = context.canvas.width;
+            }
+            
+                
+        </script>
+
+</body>
+
+</html>
